@@ -1,0 +1,4 @@
+{"endpoint": "/api/user", "response_time": 100, "timestamp": "2025-07-24T12:00:00"}
+{"endpoint": "/api/user", "response_time": 200, "timestamp": "2025-07-24T12:01:00"}
+{"endpoint": "/api/product", "response_time": 300, "timestamp": "2025-07-24T12:05:00"}
+{"endpoint": "/api/user", "response_time": 150, "timestamp": "2025-07-25T09:00:00"}
